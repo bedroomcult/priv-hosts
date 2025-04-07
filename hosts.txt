@@ -9,5 +9,5 @@
 66.254.114.41 pornhub.com
 185.88.181.58 xnxx.com
 198.251.89.38 sukebei.nyaa.si
-186.2.163.20 nyaa.si
 ;; communications error to 1.1.1.1#53: timed out xvideos.com
+186.2.163.20 nyaa.si
