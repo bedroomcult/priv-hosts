@@ -20,3 +20,4 @@
 185.88.181.8 xvideos.com
 151.101.193.140 reddit.com
 Usage:  dig [@global-server] [domain] [q-type] [q-class] {q-opt} -h
+162.159.140.229 x.com
