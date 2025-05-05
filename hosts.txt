@@ -23,3 +23,4 @@ Usage:  dig [@global-server] [domain] [q-type] [q-class] {q-opt} -h
 162.159.140.229 x.com
 172.67.213.171 manhwa18.net
 104.21.16.1 sektedoujin.cc
+192.124.249.38 mangasusuku.com
